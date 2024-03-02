@@ -1,0 +1,17 @@
+C:\Users\ADMIN\Documents\DeezGames\bin\Debug\extension.yaml
+C:\Users\ADMIN\Documents\DeezGames\bin\Debug\Localization\en_US.xaml
+C:\Users\ADMIN\Documents\DeezGames\bin\Debug\icon.png
+C:\Users\ADMIN\Documents\DeezGames\bin\Debug\DeezGames.dll
+C:\Users\ADMIN\Documents\DeezGames\bin\Debug\DeezGames.pdb
+C:\Users\ADMIN\Documents\DeezGames\bin\Debug\Playnite.SDK.dll
+C:\Users\ADMIN\Documents\DeezGames\bin\Debug\Playnite.SDK.xml
+C:\Users\ADMIN\Documents\DeezGames\obj\Debug\DeezGames.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\DeezGames\obj\Debug\App.baml
+C:\Users\ADMIN\Documents\DeezGames\obj\Debug\DeezGamesSettingsView.baml
+C:\Users\ADMIN\Documents\DeezGames\obj\Debug\DeezGamesSettingsView.g.cs
+C:\Users\ADMIN\Documents\DeezGames\obj\Debug\DeezGames_MarkupCompile.cache
+C:\Users\ADMIN\Documents\DeezGames\obj\Debug\DeezGames.g.resources
+C:\Users\ADMIN\Documents\DeezGames\obj\Debug\DeezGames.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\DeezGames\obj\Debug\DeezGames.csproj.CopyComplete
+C:\Users\ADMIN\Documents\DeezGames\obj\Debug\DeezGames.dll
+C:\Users\ADMIN\Documents\DeezGames\obj\Debug\DeezGames.pdb
