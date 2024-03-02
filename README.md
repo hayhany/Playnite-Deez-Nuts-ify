@@ -36,7 +36,7 @@ After installation, modifying game titles is a straightforward process:
 Contribute however you want
 
 ## License
-[Specify License] - Please include the license details here to inform users about how they can use or contribute to the DeezGames plugin.
+This Plugin uses the standard MIT LIcense
 
 ## Contact
 For any questions, support, or feedback, please feel free to contact me on discord - @Veloxity.
