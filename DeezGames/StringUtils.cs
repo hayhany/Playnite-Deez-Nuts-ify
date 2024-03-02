@@ -7,19 +7,9 @@ using System.Windows.Input;
 
 namespace DeezGames
 {
-    /* RULES:
-     * 
-     * 1. if has "of" add deez nuts after (removes all text after) ✅
-     * 2. if has (the) but without (of) before it, remove all after, add deez nuts and add last word ✅
-     * 3. if has (') add deez nuts before it
-     * 4. if has (a) remove "a", add deez nuts and remove everything after
-     * 5. if has (Edition) replace word before
-     * 6. if not meeting any, add "of Deez Nuts" after
-     */
-
     public static class StringUtils
     {
-        public static string DeezNutsify(string inputString)
+        public static string GetDeezNutsified(string inputString)
         {
             string[] split = inputString.Split(' ');
 
@@ -46,7 +36,7 @@ namespace DeezGames
             return inputString += " of Deez Nuts";
         }
 
-        public static bool GetFollowsSecondRule(string[] inputSplit, int wordIndex)
+        private static bool GetFollowsSecondRule(string[] inputSplit, int wordIndex)
         {
             if (wordIndex == 0)
                 return true;
@@ -54,7 +44,7 @@ namespace DeezGames
             return inputSplit[wordIndex - 1].ToLower().Equals("of");
         }
 
-        public static string GetUntilEndAndAddDeez(string[] inputSplit, int endIndex, bool addLastWord)
+        private static string GetUntilEndAndAddDeez(string[] inputSplit, int endIndex, bool addLastWord)
         {
             string output = string.Join(" ", inputSplit, 0, endIndex);
 
