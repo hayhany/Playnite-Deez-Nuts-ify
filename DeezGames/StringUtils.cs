@@ -33,7 +33,7 @@ namespace DeezGames
                     return inputString.Replace(split[i - 1], "Deez Nuts");
             }
 
-            return inputString += " of Deez Nuts";
+            return inputString + " of Deez Nuts";
         }
 
         private static bool GetFollowsSecondRule(string[] inputSplit, int wordIndex)
